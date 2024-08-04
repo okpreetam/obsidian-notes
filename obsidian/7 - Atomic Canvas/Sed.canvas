@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"1ed8b3d29e290e4e","x":78,"y":-341,"width":250,"height":60,"type":"text","text":""},
+		{"id":"1ed8b3d29e290e4e","type":"text","text":"","x":78,"y":-341,"width":250,"height":60},
 		{"id":"66dbf3cbf3d3d3db","type":"file","file":"2 - Source Material/Artifacts/sed-intro.png","x":-340,"y":-140,"width":399,"height":257},
 		{"id":"b7c5de49b29f494f","type":"file","file":"2 - Source Material/Artifacts/log-parsing.webp","x":-340,"y":180,"width":840,"height":1092},
-		{"id":"6ff5fc9c4dba9312","x":-340,"y":-440,"width":420,"height":80,"type":"text","text":"# Tags: [[linux]] [[sed]]"}
+		{"id":"6ff5fc9c4dba9312","type":"text","text":"# Tags: [[linux]] [[sed]]","x":-340,"y":-440,"width":420,"height":80}
 	],
 	"edges":[]
 }
