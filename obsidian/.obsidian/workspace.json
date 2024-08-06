@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "63e7a7e7f133cc4a",
+        "id": "f6bfc6dd2d38462d",
         "type": "tabs",
         "children": [
           {
-            "id": "cdf81310302283d6",
+            "id": "daedc2bf92154e3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Namespaces and cgroups.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b98e525f3e433175",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Linux Cheat Sheet.md",
+                "file": "6 - Atomic Notes/Process Substitution.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Linux Cheat Sheet.md",
+                "file": "6 - Atomic Notes/Process Substitution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Linux Cheat Sheet.md",
+                "file": "6 - Atomic Notes/Process Substitution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Linux Cheat Sheet.md"
+                "file": "6 - Atomic Notes/Process Substitution.md"
               }
             }
           }
@@ -161,19 +147,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b98e525f3e433175",
+  "active": "67c123aae9592b28",
   "lastOpenFiles": [
+    "3 - Tags/bash.md",
+    "6 - Atomic Notes/Process Substitution.md",
+    "3 - Tags/aws.md",
     "6 - Atomic Notes/Namespaces and cgroups.md",
+    "3 - Tags/cheat sheet.md",
     "6 - Atomic Notes/Linux Cheat Sheet.md",
     "3 - Tags/linux.md",
-    "cheat sheet.md",
     "7 - Atomic Canvas/Sed.canvas",
     "6 - Atomic Notes/Userspace vs Kernel Space - A Comprehensive Guide.md",
     "Untitled",
     "3 - Tags/namespace.md",
     "3 - Tags/sed.md",
     "3 - Tags/cgroup.md",
-    "3 - Tags/AWS.md",
     "2 - Source Material/Articals",
     "2 - Source Material/Untitled.md",
     "2 - Source Material/Articles",
