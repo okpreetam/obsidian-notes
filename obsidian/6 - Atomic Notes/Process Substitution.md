@@ -29,7 +29,7 @@ There is no space between the the "<" or ">" and the parentheses. Space th
 
 Q) Create files system_0.log to system_99.log & system_1.out to sytem_100.out
 Follow up: how you verify that each .log file have respective .out file
-Follow up: how can we optimize the verification part , and make it one liner.
+Follow up: how can we optimize the verification part, and make it one liner.
 
 Solution:
 

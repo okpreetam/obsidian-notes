@@ -2,5 +2,7 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "2 - Source Material/Artifacts"
+  "attachmentFolderPath": "2 - Source Material/Artifacts",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "1 - Rough Notes"
 }
